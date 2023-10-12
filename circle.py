@@ -8,6 +8,7 @@ def area(r):
             r (int/float/complex) : число, радиус
         :return:
             area(float/complex) :  число, площадь круга по формуле Pi*r*r
+            area(3)  # Возвращает: 28.274333882308138
     '''
     return math.pi * r * r
 
