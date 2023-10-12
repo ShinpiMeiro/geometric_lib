@@ -26,7 +26,7 @@
 **Пример:**
 
 ```python
-circle.area(3)  # Возвращает: 28.274333882308138
+area(3)  # Возвращает: 28.274333882308138
 
 ```
 
@@ -175,19 +175,19 @@ perimeter(3, 4, 5)  # Возвращает: 12
 
 # История изменений проекта
 
-* Коммит `8ba9aeb3cea847b63a91ac378a2a6db758682460` 
+* Коммит [`8ba9aeb`](https://github.com/ShinpiMeiro/geometric_lib/commit/8ba9aeb3cea847b63a91ac378a2a6db758682460) 
   + автор: smartiqa <info@smartiqa.ru>
   + дата: Thu Mar 4 14:54:08 2021 +0300
   + изменения: Circle and square added
-* Коммит `d078c8d9ee6155f3cb0e577d28d337b791de28e2` 
+* Коммит [`d078c8d`](https://github.com/ShinpiMeiro/geometric_lib/commit/d078c8d9ee6155f3cb0e577d28d337b791de28e2)
   + автор: smartiqa <info@smartiqa.ru>
   + дата: Thu Mar 4 14:55:29 2021 +0300
   + изменения: Docs added
-* Коммит `3a086b294b085f7e75c15579d193a1e401b415b3` 
+* Коммит [`3a086b2`](https://github.com/ShinpiMeiro/geometric_lib/commit/3a086b294b085f7e75c15579d193a1e401b415b3) 
   + автор: ShinpiMeiro <max.rozoff@gmail.com>
   + дата: Thu Sep 14 10:23:39 2023 +0300
   + изменения: rectangle.py added
-* Коммит `88d8486934f57e58f9559264c6611c07a10ef0f2` 
+* Коммит [`88d8486`](https://github.com/ShinpiMeiro/geometric_lib/commit/88d8486934f57e58f9559264c6611c07a10ef0f2) 
   + автор: ShinpiMeiro <max.rozoff@gmail.com>
   + дата: Thu Sep 14 10:44:13 2023 +0300
   + изменения: triangle.py added and rectangle.py perimeter bug fixed

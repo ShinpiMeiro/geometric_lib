@@ -8,6 +8,7 @@ def area(r):
             r (int/float/complex) : число, радиус
         :return:
             area(float/complex) :  число, площадь круга по формуле Pi*r*r
+        :example:
             area(3)  # Возвращает: 28.274333882308138
     '''
     return math.pi * r * r
@@ -20,5 +21,7 @@ def perimeter(r):
             r (int/float/complex) : число, радиус
         :return:
             perimeter(float/complex) :  число, периметр круга по формуле 2*Pi*r
-        '''
+        :example:
+            perimeter(3)  # Возвращает: 18.84955592153876
+    '''
     return 2 * math.pi * r
