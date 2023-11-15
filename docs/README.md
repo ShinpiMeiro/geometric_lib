@@ -1,13 +1,26 @@
 # Общее описание папки [geometric_lib](../)
 В этой директории содержатся скрипты на Python, каждый из которых включает несколько функций для вычисления площади и периметра 
-геометрической фигуры. 
+геометрической фигуры.
 В директории представлены файлы с функциями для кругов, прямоугольников, квадратов и треугольников.
+В коммите [`6cd94c4`](https://github.com/ShinpiMeiro/geometric_lib/commit/6cd94c42dd898387495927f68db141a4d159baf9) добавлены unittest.
 
 **[circle.py](../circle.py) - файл с функциями для круга**
+
 **[rectangle.py](../rectangle.py) - файл с функциями для прямоугольника**
+
 **[square.py](../square.py) - файл с функциями для квадрата**
+
 **[triangle.py](../triangle.py) - файл с функциями для треугольника**
+
 **[README.md](../docs/README.md) - файл README.md**
+
+**[unittest_circle.py](../unittests/unittest_circle.py) - файл c unittest для функций круга**
+
+**[unittest_rectangle.py](../unittests/unittest_rectangle.py) - файл c unittest для функций прямоугольника**
+
+**[unittest_square.py](../unittests/unittest_square.py) - файл c unittest для функций квадрата**
+
+**[unittest_triangle.py](../unittests/unittest_triangle.py) - файл c unittest для функций треугольника**
 
 ## Описание [circle.py](../circle.py)
 
@@ -191,3 +204,7 @@ perimeter(3, 4, 5)  # Возвращает: 12
   + автор: ShinpiMeiro <max.rozoff@gmail.com>
   + дата: Thu Sep 14 10:44:13 2023 +0300
   + изменения: triangle.py added and rectangle.py perimeter bug fixed
+* Коммит [`6cd94c4`](https://github.com/ShinpiMeiro/geometric_lib/commit/6cd94c42dd898387495927f68db141a4d159baf9) 
+  + автор: ShinpiMeiro <max.rozoff@gmail.com>
+  + дата: Wed Nov 15 17:40:06 2023 +0300
+  + изменения: Added unittest
