@@ -25,4 +25,3 @@ jobs:
           python -m unittest unittests/unittest_rectangle.py
           python -m unittest unittests/unittest_square.py
           python -m unittest unittests/unittest_triangle.py
-          
